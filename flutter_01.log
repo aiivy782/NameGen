@@ -1,0 +1,55 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+RPCError: getVM: (112) Service has disappeared
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, 1.27.0-2.0.pre.83, on Linux, locale ru_RU.UTF-8)
+    • Flutter version 1.27.0-2.0.pre.83 at /home/kali/flutter
+    • Framework revision b0aa556958 (17 часов назад), 2021-02-12 13:54:37 -0800
+    • Engine revision b9ecd8aca6
+    • Dart version 2.13.0 (build 2.13.0-25.0.dev)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    • Android SDK at /home/kali/Android/Sdk
+    • Platform android-30, build-tools 30.0.3
+    • Java binary at: /home/kali/android-studio/jre/bin/java
+    • Java version openjdk version "1.8.0_242-release"
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at google-chrome
+
+[✓] Android Studio
+    • Android Studio at /home/kali/android-studio
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version openjdk version "1.8.0_242-release"
+
+[✓] VS Code (version 1.53.2)
+    • VS Code at /usr/share/code
+    • Flutter extension can be installed from:
+      🔨 https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+
+[✓] Connected device (2 available)
+    • ZenFone Max Pro M1 (mobile) • J9AXB764524939P • android-arm64  • Android
+      11 (API 30)
+    • Chrome (web)                • chrome          • web-javascript • Google
+      Chrome 88.0.4324.150
+    ! Device J9AXB764524939P is offline.
+
+• No issues found!
+```

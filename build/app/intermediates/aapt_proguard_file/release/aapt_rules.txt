@@ -1,0 +1,2 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.aiivy.name_gen.MainActivity { <init>(); }
